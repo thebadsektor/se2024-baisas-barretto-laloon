@@ -152,9 +152,9 @@ Outline the project timeline, including milestones or deliverables. Example:
 
 Acknowledge any resources, mentors, or external tools that helped in completing the project.
 
-This project was built from [Original Project Name](https://github.com/username/original-repo), created by [Original Author's Name]. You can view the original repository [here](https://github.com/username/original-repo).
+This project was built from [Original Project Name](https://github.com/dec23rd1986/-product-locator-app.git), created by [Andrea Sanchez]. You can view the original repository [here](https://github.com/dec23rd1986/-product-locator-app.git).
 
 ## License
 
-Specify the project's license. For starters, adapt the license of the original repository.
+(no license to original author/owner)
 
