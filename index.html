@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <!--Favicon-->
+  <link rel="shortcut icon" type="img/ico" href="favicon.ico">
+  <!--Custom JS-->
+  <script type="text/javascript" src="index.js"></script>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+  <title>Aisle Checker</title>
+</head>
+<body> 
+<div class="jumbotron justify-content-center">
+  <h1><i class="fas fa-map-marker-alt"></i>  Product Locator</h1>
+    <p class= "intro">Type in a product (word bank) and we'll let you know what aisle it's hiding in!</p>
+  <hr class="my-4">
+
+  <form class="form-inline justify-content-center">
+  <input type="text" name="productName" value="" id ="input" autocomplete="off" onsubmit="handleKeyPress(e)">
+ <button type="button" value = "" class="btn btn-primary" onclick="start()" id ="myBtn">Find</button>   
+  </form>
+  
+   <span id= "error"></span>
+   <span id= "good"></span>
+  
+   <div id= "section">
+    <p class="bank">Word Bank:</p>
+    <p class="products" id="products">milk, eggs, cheese, lettuce, tomatoes, onions, shampoo, soap, toothpaste</p>
+   </div>
+</div>
+   <p class="written">Written and coded by: <a href="http://andreasanchez.co/" target="_blank">Andrea Sanchez</a></p>
+
+<script>
+// <-- onKeyPress Handler -->
+
+function handleKeyPress(e){
+  	e = e || window.event;
+
+	if (e.keyCode === 13) {
+		 document.getElementById("myBtn").click();
+		return false;
+	}
+}
+var input = document.getElementById("input");
+
+input.onkeypress = handleKeyPress;
+</script>
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,72 @@
+body, html{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+  background-image: url("img/background.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h5{
+  font-weight: bold !important;
+}
+
+.intro{
+  font-size: 18px;
+}
+.jumbotron {
+  width: 50% !important;
+  margin: 0 auto !important;
+  margin-top: 60px !important;
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;  
+}
+
+#error{
+  color: red;
+  font-size: 18px;
+  
+}
+#good{
+  color: #1baa6c;
+  font-size: 18px;
+  
+}
+.btn{
+  margin-left: 20px;
+}
+
+.bank{
+  color: green;
+  display: inline;
+  font-weight: bold;
+  font-size: 20px; 
+}
+
+.products{
+  font-size: 18px;
+  display: inline;
+  color: black;
+}
+
+#section{
+  margin-top: 15px;
+}
+
+.written{ 
+    bottom: 0%;
+    position: fixed;
+    color: black;
+    float: none;
+    margin-bottom: .2%;
+    margin-left: 7px;
+    font-size: 75%; 
+}
