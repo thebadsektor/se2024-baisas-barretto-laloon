@@ -84,7 +84,7 @@ Mention the tools, frameworks, and technologies used in the project:
 
 ## Usage Instructions
 Provide detailed instructions on how to use the project after setup:
-- After set up type http://localhost/-product-app-locator/index.php in  browser
+- After set up type http://localhost/-product-app-locator/ in  browser
 
 - Just Search the product in the search Bar.
 
