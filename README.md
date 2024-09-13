@@ -83,6 +83,7 @@ Mention the tools, frameworks, and technologies used in the project:
 
 ## Usage Instructions
 Provide detailed instructions on how to use the project after setup:
+
 - After set up type http://localhost/CLOONEGROUP23/-product-locator-app/ in  browser
 
 - Just Search the product in the search Bar.
@@ -125,7 +126,7 @@ List all the team members involved in the project. Include their roles and respo
 
 Outline the project timeline, including milestones or deliverables. Example:
 
-- **Week 1-2**: Research and project planning.
+- **Week 1-2**:  and project planning.
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
