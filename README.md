@@ -1,4 +1,4 @@
-# SD-3101 [Product Locator]
+# SD-3101 [Product Locato]
 
 ![Alt text](image-3.png)
 
