@@ -78,7 +78,6 @@ Mention the tools, frameworks, and technologies used in the project:
 ## Setup and Installation
 - cloned the repository using git bash
 - copied repository folder to the htdocs folder in Xammp
-- imported the SQL File in MyphpAdmin
 - type http://localhost/CLOONEGROUP23/-product-locator-app/ in my browser
 
 
