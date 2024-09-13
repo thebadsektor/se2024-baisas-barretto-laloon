@@ -109,7 +109,8 @@ Explain the structure of the project directory.
         ├── index.css
         ├── index.html
         ├── index.js
-        └── index.php
+        ├── index.php
+        └── README.md
 ```
 
 ## Contributors
