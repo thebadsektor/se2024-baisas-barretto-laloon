@@ -1,6 +1,7 @@
 # SD-3101 Product Locator
 
-![image](https://github.com/user-attachments/assets/1dcf6a38-dc2d-4ae5-a957-cf59b964cee1)
+![image](https://github.com/user-attachments/assets/cac890ae-8666-470d-8e9d-8c8805b23a5b)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
