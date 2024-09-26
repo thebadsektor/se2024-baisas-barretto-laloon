@@ -117,9 +117,9 @@ Explain the structure of the project directory.
 
 List all the team members involved in the project. Include their roles and responsibilities:
 
-- **[Kaye Anne Laloon]**: Lead Developer, Backend Developer
-- **[Carlos Roi Barretto]**: Frontend Developer, UI/UX Designer
-- **[Mc Angelo D. Baisas]**: Frontend Developer, UI/UX Designer
+- **Kaye Anne Laloon**: Lead Developer, Backend Developer
+- **Carlos Roi Barretto**: Frontend Developer, UI/UX Designer
+- **Mc Angelo D. Baisas**: Frontend Developer, UI/UX Designer
 - **Gerald Villaran**: Project Manager, Tester
 
 ## Project Timeline
