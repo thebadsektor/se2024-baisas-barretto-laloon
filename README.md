@@ -81,18 +81,18 @@ Step-by-step instructions for setting up the project locally.
     ``` bash
    https://github.com/dec23rd1986/-product-locator-app.git
    ```
-2. **Move the Repository: Copy the repository folder to the htdocs directory in your XAMPP installation. The path typically looks like this:**
+2. **Move the Repository: Copy the repository folder to the htdocs directory in your XAMPP installation. The path typically looks like this:
     ``` bash
     C:\xampp\htdocs\
     ```
 3. Make sure to create a folder inside the htdocs where you will move the repository folder.
    
-4. **Check XAMPP Installation:** Ensure that XAMPP is installed correctly and that the Apache server is running. Open the XAMPP Control Panel and start the Apache module.**
-5. **Access the Application:** Open your web browser and type the URL:**
+4. **Check XAMPP Installation:** Ensure that XAMPP is installed correctly and that the Apache server is running. Open the XAMPP Control Panel and start the Apache module.
+5. **Access the Application:** Open your web browser and type the URL:
    ``` bash
    https://localhost/createdfolder/product-locator-app
    ```
-   **Ensure the path matches the folder name exactly, including the case sensitivity.**
+   **Ensure the path matches the folder name exactly, including the case sensitivity.
    
 ## Usage Instructions
 Provide detailed instructions on how to use the project after setup:
