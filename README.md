@@ -32,10 +32,8 @@ In large retail environments, finding specific products can be challenging for c
 
 Target Audience
 
-• Administrators: Employees who manage the store’s inventory and layout. 
-        They input and update the locations of products in the system.
-• Customers: Users who visit the store and 
-        use the application to search for and locate products.
+• Administrators: Employees who manage the store’s inventory and layout. They input and update the locations of products in the system.
+• Customers: Users who visit the store and use the application to search for and locate products.
 
 Real-World Applications and Potential Impact
 
