@@ -76,32 +76,18 @@ Mention the tools, frameworks, and technologies used in the project:
 ## Setup and Installation
 Step-by-step instructions for setting up the project locally.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/dec23rd1986/-product-locator-app.git
-   ```
-2. **Install dependencies:**
-	- If using `npm`:
-   ```bash
-   git clone https://github.com/your-repo-url.git
-   ```
-   - If using `pip` (for Python projects):
-   ```bash
-   git clone https://github.com/your-repo-url.git
-   ```
-3. **Configure environment variables (if any)**: Provide instructions for setting up .env files or any other required configurations.
-   ```bash
-   git clone https://github.com/your-repo-url.git
-   ```
-4. **Run the project:**
-   - For web projects:
-   ```bash
-   npm start
-   ```
-   - IFor backend services:
-   ```bash
-   python app.py
-   ```
+1. ****Clone the Repository:** Clone the repository using git bash: https://github.com/dec23rd1986/-product-locator-app.git
+   
+2. **Move the Repository:** Copy the repository folder to the htdocs directory in your XAMPP installation. The path typically looks like this: ``` bash C:\xampp\htdocs\```
+   Make sure to create a folder inside the htdocs where you will move the repository folder.
+   
+3. **Check XAMPP Installation:** Ensure that XAMPP is installed correctly and that the Apache server is running. Open the XAMPP Control Panel and start the Apache module.
+4. **Access the Application:** Open your web browser and type the URL: 
+   		``` bash
+   		https://localhost/createdfolder/product-locator-app```
+   Ensure the path matches the folder name exactly, including the case sensitivity.
+   
+
 
 ## Usage Instructions
 Provide detailed instructions on how to use the project after setup:
