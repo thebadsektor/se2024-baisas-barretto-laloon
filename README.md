@@ -32,18 +32,18 @@ In large retail environments, finding specific products can be challenging for c
 
 Target Audience
 
-    - Administrators: Employees who manage the store’s inventory and layout. 
+• Administrators: Employees who manage the store’s inventory and layout. 
         They input and update the locations of products in the system.
-    - Customers: Users who visit the store and 
+• Customers: Users who visit the store and 
         use the application to search for and locate products.
 
 Real-World Applications and Potential Impact
 
-    - Enhanced Shopping Experience: Customers can quickly find the exact aisle 
+• Enhanced Shopping Experience: Customers can quickly find the exact aisle 
     and shelf location of products, reducing the time spent searching in-store.
-    - Efficient Store Management: Store administrators can easily update product 
+• Efficient Store Management: Store administrators can easily update product 
     locations as inventory changes, ensuring the information remains accurate and up-to-date.
-    - Improved Store Navigation: By providing clear location data, the application helps 
+• Improved Store Navigation: By providing clear location data, the application helps 
     customers navigate the store more efficiently, leading to a more satisfying shopping experience.
 
 
