@@ -74,10 +74,34 @@ Mention the tools, frameworks, and technologies used in the project:
 - Other Tools: Git and docker
 
 ## Setup and Installation
-- cloned the repository using git bash
-- copied repository folder to the htdocs folder in Xammp
-- type http://localhost/CLOONEGROUP23/-product-locator-app/ in my browser
+Step-by-step instructions for setting up the project locally.
 
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/dec23rd1986/-product-locator-app.git
+   ```
+2. **Install dependencies:**
+	- If using `npm`:
+   ```bash
+   git clone https://github.com/your-repo-url.git
+   ```
+   - If using `pip` (for Python projects):
+   ```bash
+   git clone https://github.com/your-repo-url.git
+   ```
+3. **Configure environment variables (if any)**: Provide instructions for setting up .env files or any other required configurations.
+   ```bash
+   git clone https://github.com/your-repo-url.git
+   ```
+4. **Run the project:**
+   - For web projects:
+   ```bash
+   npm start
+   ```
+   - IFor backend services:
+   ```bash
+   python app.py
+   ```
 
 ## Usage Instructions
 Provide detailed instructions on how to use the project after setup:
