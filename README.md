@@ -138,34 +138,19 @@ List all the team members involved in the project. Include their roles and respo
 ## Project Timeline
 
 ### Week 1-2: Research and Project Planning
-- mm/date/year
-                - Meeting Record: 1. ``` bash
-                                      Part 1
-                                      https://www.youtube.com/watch?v=VBv-K7CVVHk ```
-  
-                                  2. ``` bash
-                                      Part 2
-                                      https://www.youtube.com/watch?v=em5Z982tEvU ```
-  
-                - Purposes Features 1.2.3.4.5.6.7.8.9.10.
+- Sep 15, 2024
+- Meeting Record: ```
+                   Part 1: https://www.youtube.com/watch?v=VBv-K7CVVHk&t=1s       
+                  ```
+                  ```
+                   Part 2: https://www.youtube.com/watch?v=em5Z982tEvU&t=322s
+                  ```
+- Purposes Features 1.2.3.4.5.6.7.8.9.10             
 
 ### Week 3-5: System Design and Setup
-- Create wireframes and UI/UX designs for administrators and customers.
-- Design the database schema for product locations.
-- Set up the development environment, database, and infrastructure.
-
 ### Week 6-10: Implementation
-- **Week 6-7**: Develop the administrator interface for managing product locations.
-- **Week 8-9**: Develop the customer interface for product search and location display.
-- **Week 10**: Integrate both modules and ensure seamless communication between front-end and back-end.
-
 ### Week 11-12: Testing and Debugging
-- **Week 11**: Conduct unit and usability testing for both administrator and customer interfaces.
-- **Week 12**: Debug and resolve any issues, ensuring real-time data updates are functioning.
-
 ### Week 13-14: Final Presentation and Documentation
-- **Week 13**: Prepare for final presentation and demonstrate key features.
-- **Week 14**: Finalize project documentation and present the completed product.
 
 ## Changelog
 
