@@ -138,9 +138,16 @@ List all the team members involved in the project. Include their roles and respo
 ## Project Timeline
 
 ### Week 1-2: Research and Project Planning
-- Research existing indoor navigation systems, customer preferences, and potential challenges.
-- Define project scope, goals, and create a detailed project plan.
-- Identify system architecture and tools needed.
+- mm/date/year
+                - Meeting Record: 1. ``` bash
+                                      Part 1
+                                      https://www.youtube.com/watch?v=VBv-K7CVVHk ```
+  
+                                  2. ``` bash
+                                      Part 2
+                                      https://www.youtube.com/watch?v=em5Z982tEvU ```
+  
+                - Purposes Features 1.2.3.4.5.6.7.8.9.10.
 
 ### Week 3-5: System Design and Setup
 - Create wireframes and UI/UX designs for administrators and customers.
