@@ -139,10 +139,10 @@ List all the team members involved in the project. Include their roles and respo
 
 ### Week 1-2: Research and Project Planning
 - Sep 15, 2024
-- Meeting Record: ```
+- Meeting Record: 1. ```
                    Part 1: https://www.youtube.com/watch?v=VBv-K7CVVHk&t=1s       
                   ```
-                  ```
+                 2.  ```
                    Part 2: https://www.youtube.com/watch?v=em5Z982tEvU&t=322s
                   ```
 - Purposes Features 1.2.3.4.5.6.7.8.9.10             
