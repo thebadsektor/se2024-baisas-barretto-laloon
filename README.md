@@ -137,13 +137,28 @@ List all the team members involved in the project. Include their roles and respo
 
 ## Project Timeline
 
-Outline the project timeline, including milestones or deliverables. Example:
+### Week 1-2: Research and Project Planning
+- Research existing indoor navigation systems, customer preferences, and potential challenges.
+- Define project scope, goals, and create a detailed project plan.
+- Identify system architecture and tools needed.
 
-- **Week 1-2**: Research and project planning.
-- **Week 3-5**: Design and setup.
-- **Week 6-10**: Implementation.
-- **Week 11-12**: Testing and debugging.
-- **Week 13-14**: Final presentation and documentation.
+### Week 3-5: System Design and Setup
+- Create wireframes and UI/UX designs for administrators and customers.
+- Design the database schema for product locations.
+- Set up the development environment, database, and infrastructure.
+
+### Week 6-10: Implementation
+- **Week 6-7**: Develop the administrator interface for managing product locations.
+- **Week 8-9**: Develop the customer interface for product search and location display.
+- **Week 10**: Integrate both modules and ensure seamless communication between front-end and back-end.
+
+### Week 11-12: Testing and Debugging
+- **Week 11**: Conduct unit and usability testing for both administrator and customer interfaces.
+- **Week 12**: Debug and resolve any issues, ensuring real-time data updates are functioning.
+
+### Week 13-14: Final Presentation and Documentation
+- **Week 13**: Prepare for final presentation and demonstrate key features.
+- **Week 14**: Finalize project documentation and present the completed product.
 
 ## Changelog
 
