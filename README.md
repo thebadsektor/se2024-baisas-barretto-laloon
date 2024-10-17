@@ -138,7 +138,7 @@ List all the team members involved in the project. Include their roles and respo
 ## Project Timeline
 
 ### Week 1-2: Research and Project Planning
-- 9/15/2024
+- 09/15/2024
 - Meeting Record:
   1. Part 1
      ```
