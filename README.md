@@ -148,8 +148,19 @@ List all the team members involved in the project. Include their roles and respo
      ```
      https://www.youtube.com/watch?v=em5Z982tEvU&t=322s
      ```
-- Purposes Features 1.2.3.4.5.6.7.8.9.10             
-
+- Purposes Features
+  
+1. Login Feature since the project doesn't have one
+2. Sign up
+3. Add items
+4. Edit items
+5. Dashboard for admib
+6. Dashboard for employees
+7. Display hot items 
+8. On sale
+9. Filtering
+10.Responsive         
+  
 ### Week 3-5: System Design and Setup
 ### Week 6-10: Implementation
 ### Week 11-12: Testing and Debugging
