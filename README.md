@@ -159,7 +159,10 @@ List all the team members involved in the project. Include their roles and respo
 7. Display hot items 
 8. On sale
 9. Filtering
-10.Responsive         
+10.Responsive
+   
+   - Feature: Dockerize Project
+   - Target Completion: 27/10/2024
   
 ### Week 3-5: System Design and Setup
 ### Week 6-10: Implementation
