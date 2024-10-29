@@ -108,22 +108,26 @@ Provide detailed instructions on how to use the project after setup:
 ## Project Structure
 Explain the structure of the project directory.
 ```
-
-└── CLOENEGROUP23/
-    └── -product-locator-app/
-        ├── img/
-        │   └── background.jpg
-        ├── composer.json
-        ├── favicon.ico
-        ├── image-1.png
-        ├── image-2.png
-        ├── image-3.png
-        ├── image.png
-        ├── index.css
-        ├── index.html
-        ├── index.js
-        ├── index.php
-        └── README.md
+.
+├── img/
+│   ├── image-1.png
+│   ├── image-2.png
+│   ├── image-3.png
+│   └── image.png
+├── src/
+│   ├── backgroubd.jpg
+│   ├── index.css
+│   ├── index.html
+│   ├── index.js
+│   ├── index.php
+│   ├── main.php
+│   └── migration.sql
+├── .gitignore
+├── Dockerfile
+├── README.md
+├── composer.json
+├── docker-compose.yml
+└── favicon.ico
 ```
 
 ## Contributors
