@@ -12,6 +12,9 @@ services:
       - db
     environment:
       - MYSQLI_ENABLED=true
+    build:
+      context: .
+      dockerfile: Dockerfile
 
   db:
     image: mysql:8.0
