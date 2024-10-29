@@ -1,6 +1,7 @@
-# SD-3101 [Product Locator]
+# SD-3101 Product Locator
 
-![Alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/cac890ae-8666-470d-8e9d-8c8805b23a5b)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -32,18 +33,16 @@ In large retail environments, finding specific products can be challenging for c
 
 Target Audience
 
-    - Administrators: Employees who manage the store’s inventory and layout. 
-        They input and update the locations of products in the system.
-    - Customers: Users who visit the store and 
-        use the application to search for and locate products.
+- Administrators: Employees who manage the store’s inventory and layout. They input and update the locations of products in the system.
+- Customers: Users who visit the store and use the application to search for and locate products.
 
 Real-World Applications and Potential Impact
 
-    - Enhanced Shopping Experience: Customers can quickly find the exact aisle 
+- Enhanced Shopping Experience: Customers can quickly find the exact aisle 
     and shelf location of products, reducing the time spent searching in-store.
-    - Efficient Store Management: Store administrators can easily update product 
+- Efficient Store Management: Store administrators can easily update product 
     locations as inventory changes, ensuring the information remains accurate and up-to-date.
-    - Improved Store Navigation: By providing clear location data, the application helps 
+- Improved Store Navigation: By providing clear location data, the application helps 
     customers navigate the store more efficiently, leading to a more satisfying shopping experience.
 
 
@@ -76,11 +75,25 @@ Mention the tools, frameworks, and technologies used in the project:
 - Other Tools: Git and docker
 
 ## Setup and Installation
-- cloned the repository using git bash
-- copied repository folder to the htdocs folder in Xammp
-- type http://localhost/CLOONEGROUP23/-product-locator-app/ in my browser
+Step-by-step instructions for setting up the project locally.
 
-
+1. Clone the Repository:** Clone the repository using git bash:
+    ``` bash
+   https://github.com/dec23rd1986/-product-locator-app.git
+   ```
+2. Move the Repository: Copy the repository folder to the htdocs directory in your XAMPP installation. The path typically looks like this:
+    ``` bash
+    C:\xampp\htdocs\
+    ```
+3. Make sure to create a folder inside the htdocs where you will move the repository folder.
+   
+4. Check XAMPP Installation:** Ensure that XAMPP is installed correctly and that the Apache server is running. Open the XAMPP Control Panel and start the Apache module.
+5. Access the Application:** Open your web browser and type the URL:
+   ``` bash
+   https://localhost/createdfolder/product-locator-app
+   ```
+   **Ensure the path matches the folder name exactly, including the case sensitivity.
+   
 ## Usage Instructions
 Provide detailed instructions on how to use the project after setup:
 
@@ -117,20 +130,44 @@ Explain the structure of the project directory.
 
 List all the team members involved in the project. Include their roles and responsibilities:
 
-- **[Kaye Anne Laloon]**: Lead Developer, Backend Developer
-- **[Carlos Roi Barretto]**: Frontend Developer, UI/UX Designer
-- **[Mc Angelo D. Baisas]**: Frontend Developer, UI/UX Designer
+- **Kaye Anne Laloon**: Lead Developer, Backend Developer
+- **Carlos Roi Barretto**: Frontend Developer, UI/UX Designer
+- **Mc Angelo D. Baisas**: Frontend Developer, UI/UX Designer
 - **Gerald Villaran**: Project Manager, Tester
 
 ## Project Timeline
 
-Outline the project timeline, including milestones or deliverables. Example:
-
-- **Week 1-2**:  and project planning.
-- **Week 3-5**: Design and setup.
-- **Week 6-10**: Implementation.
-- **Week 11-12**: Testing and debugging.
-- **Week 13-14**: Final presentation and documentation.
+### Week 1-2: Research and Project Planning
+- 09/15/2024
+- Meeting Record:
+  1. Part 1
+     ```
+     https://www.youtube.com/watch?v=VBv-K7CVVHk&t=1s       
+     ```
+  2. Part 2:
+     ```
+     https://www.youtube.com/watch?v=em5Z982tEvU&t=322s
+     ```
+- Purposes Features
+  
+1. Login Feature since the project doesn't have one
+2. Sign up
+3. Add items
+4. Edit items
+5. Dashboard for admib
+6. Dashboard for employees
+7. Display hot items 
+8. On sale
+9. Filtering
+10.Responsive
+   
+   - Feature: Dockerize Project
+   - Target Completion: 27/10/2024
+  
+### Week 3-5: System Design and Setup
+### Week 6-10: Implementation
+### Week 11-12: Testing and Debugging
+### Week 13-14: Final Presentation and Documentation
 
 ## Changelog
 
